@@ -1,6 +1,5 @@
 @import "{{ site.theme }}";
 
-/*
 body {
     color: white;
     background-color: black;
@@ -36,4 +35,3 @@ h3 {
   background-color: #4CAF50;
   color: white;
 }
-*/
